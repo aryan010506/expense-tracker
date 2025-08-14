@@ -24,8 +24,6 @@ allowing users to track expenses by category in real-time.
 - **Chart.js** – For rendering interactive and responsive charts.
 
 ---
+made by Aryan Sunil
 
-## 🚀 How to Use
-1. **Download or Clone** the repository:
-   ```bash
    git clone https://github.com/yourusername/expense-tracker.git
