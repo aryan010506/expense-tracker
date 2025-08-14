@@ -26,4 +26,4 @@ allowing users to track expenses by category in real-time.
 ---
 made by Aryan Sunil
 
-   git clone https://github.com/yourusername/expense-tracker.git
+ 
